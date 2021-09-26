@@ -1,0 +1,33 @@
+html {
+    color: rgb(63, 4, 60);
+    font-family: 'Merriweather', serif; 
+    font-style: normal;
+    font-size: 24px;
+  }
+body {
+    background-color: rgb(212, 176, 241);
+}
+
+
+  h1 { 
+    color: rgb(63, 4, 60);
+    letter-spacing: -0.02em ;
+    text-transform: capitalize;
+    font-size: 50px; }
+
+    p {
+
+        line-height: .4;}
+
+    h2 {
+        font-size: 24px;
+        color:rgb(160, 17, 48)
+    }
+
+    h3 {
+        font-size:12px;
+        line-height: .7;
+    
+    
+    
+    }
