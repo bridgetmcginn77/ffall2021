@@ -1,0 +1,41 @@
+html {
+    color: rgb(90, 14, 43);
+    font-family: 'Merriweather', serif; 
+    font-style: normal;
+    font-size: 15px;
+
+  }
+body {
+    background-color: rgb(255, 255, 255);
+   text-align: left; 
+   padding-left: 80px;     
+}
+
+.circular--square {
+    border-radius: 20%;
+  }
+  
+  li{
+      text-align: center;
+  }
+
+  h1 { 
+    text-align: center;
+    font-size: 40px ;
+    color: rgb(90, 14, 43);
+    letter-spacing: -0.02em ;
+    text-transform: capitalize; }
+
+    p {
+          text-align: center;
+        line-height: .4;}
+
+    h2 {
+        text-align: center;
+        font-size: 15px;
+        color:rgb(90, 14, 43);
+    }
+
+    h3 {
+        font-size:12px;
+        line-height: .7;}
