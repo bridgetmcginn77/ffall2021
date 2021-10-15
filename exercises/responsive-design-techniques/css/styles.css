@@ -39,7 +39,7 @@ aside {
         }
 
         @media (min-width: 640px) {
-    #stretchable-grid-items aside { width: 90%;}
+    #stretchable-grid-items li { width: 25%;}
     }
 
     #stretchable-grid-items ul {
