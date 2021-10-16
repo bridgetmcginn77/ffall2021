@@ -1,0 +1,131 @@
+body {
+    font-family: 'Archivo Narrow', sans-serif;
+}
+
+h1{
+    margin: 0;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+
+}
+h2 {
+    color: white;
+}
+
+.content {
+    width: 960px;
+    margin: auto;
+    padding-bottom: 38px;
+
+}
+
+header {
+    background-color: rgb(233, 191, 235);
+    text-align: center;
+}
+
+header .content{
+    padding: 152px 0 148px 0;
+
+}
+
+header h1{
+    font-size: 80px;
+}
+
+section .content {
+    padding: 55px 0 10px 0;
+}
+
+header {
+    background-color: paleturquoise ;
+    text-align: center; 
+    background-image: url("https://film-grab.com/wp-content/uploads/photo-gallery/24%20(504).jpg?bwg=1547222278");
+background-size: 100%; }
+
+.float-right-image {
+    float: right;
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    border: solid white;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#section-uno {
+    background-color: rgb(134, 60, 60);
+
+}
+
+#section-uno p{
+    font-size: 13.5pt;
+    color: white;
+}
+
+ul {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0;
+}
+
+ul li {
+    display: inline-block;
+    width: 90%;
+}
+
+.grid li img{
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 0 12px 24px 0;
+}
+
+#section-due {
+    background-color: rgb(233, 191, 235);
+}
+
+#section-due h1{
+    color: white;
+}
+
+ul h2 {
+    margin: 2px 0 7px 0;
+}
+
+.text-for-photo {
+    color: white;
+}
+
+#section-tre {
+    background-color:rgb(125, 150, 125);
+    padding-top: 5px;
+    padding-bottom: 132px;
+}
+
+
+#section-tre h1{
+    font-size: 40px;
+    margin-bottom: 33px;
+    color:white;
+}
+
+
+.final {
+    color: white;
+    text-align: center;
+    width: 710px;
+    margin: auto;
+    font-size: 26px;
+    line-height: 36px;
+}
+
+.copyright {
+font-size: 18px;
+background-color: white;
+padding-top: 40px;
+}
+
+
