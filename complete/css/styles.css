@@ -46,13 +46,6 @@ img {
     width: 0%;
 }
 
-.content {
-    width: 960px;
-    margin: auto;
-    padding-bottom: 38px;
-
-}
-
 /* mouse over link */
 a:hover {
     color: white;
@@ -68,5 +61,9 @@ a:hover {
     html {background-color: #8f1919;}
     html {padding-bottom: 38px;}
 }
+
+
+
+
   
 
