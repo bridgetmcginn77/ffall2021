@@ -1,0 +1,50 @@
+
+.home {
+        height: auto;
+        width: 100%;
+        background-size: cover;
+         }
+ 
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+  .sidenav a {
+    font-family: "moby";
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 18px;
+    color: rgb(89, 100, 204);
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidenav a:hover {
+    color: rgb(228, 213, 165);
+  }
+  
+  .sidenav .closebtn {
+  font-size: 20px;
+  cursor: pointer;
+  background-color:rgb(89, 100, 204);
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 20px;}
+    .sidenav a {font-size: 18px;}
+  }
+
+  
