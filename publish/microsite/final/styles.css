@@ -108,6 +108,7 @@ background-color:rgb(89, 100, 204);
 .video {
   max-width: 84%;
 }
+
 .lagoon {
   max-width: 52%;
 }
@@ -132,12 +133,6 @@ body {
 
      
     
-.bottom {
-        
-        bottom: 5px;
-       size: 0chx;
-        font-family: "minion pro";
-}
 
 
   
