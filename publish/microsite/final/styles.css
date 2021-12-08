@@ -132,7 +132,12 @@ body {
 
      
     
-
+.bottom {
+        
+        bottom: 5px;
+       size: 0chx;
+        font-family: "minion pro";
+}
 
 
   
