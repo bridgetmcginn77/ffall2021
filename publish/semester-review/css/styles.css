@@ -1,0 +1,25 @@
+h1 { 
+    font-family: tuppence,serif;
+    font-weight: 700;
+    
+}
+
+h2 {
+    font-family: tuppence,serif;
+font-weight: 700;
+font-style: italic;
+
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 80px;
+    margin: auto; 
+    text-align: center;
+}
+
+a {
+    
+    text-decoration: none;
+  }
+
